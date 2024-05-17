@@ -56,4 +56,7 @@ This repository contains key software and data used in our analysis of line-of-s
 * **lens_stats_2744.npy:** numpy file containing shears ($\gamma_{c}$, $\gamma_{s}$) and convergence ($\kappa$) distributions for each snapshot, for Abell 2744.
 * **lens_stats_0416.npy:** numpy file containing shears ($\gamma_{c}$, $\gamma_{s}$) and convergence ($\kappa$) distributions for each snapshot, for MACS J0416.1-2403.
 * **fits_2744.npy:** numpy file containing distribution fit information (normal fit for shears; log-normal for convergence) for Abell 2744.
-* **fits_0416.npy:** numpy file containing distribution fit information (normal fit for shears; log-normal for convergence) for MACS J0416.1-2403. 
+* **fits_0416.npy:** numpy file containing distribution fit information (normal fit for shears; log-normal for convergence) for MACS J0416.1-2403.
+
+## Available Tutorials: 
+* **Example.ipynb:** Tutorial on downloading simulation snapshots from the IllustrisTNG workspace. 
